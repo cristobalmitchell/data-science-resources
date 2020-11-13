@@ -16,7 +16,7 @@ This document is a curated list of data science resources covering everything fr
 
 ---
 
-<a id="stats" />
+<a id="stats"></a>
 ## Statistics
 ### Books
 * [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
