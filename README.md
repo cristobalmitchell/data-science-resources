@@ -5,7 +5,7 @@ This document is a curated list of data science resources covering everything fr
 --- 
 
 ## Table of Contents
-### Statistics
+### [Statistics](#stats)
 ### Git
 ### Python
 ### R
@@ -16,6 +16,7 @@ This document is a curated list of data science resources covering everything fr
 
 ---
 
+<a id="stats" />
 ## Statistics
 ### Books
 * [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
