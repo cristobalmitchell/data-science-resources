@@ -26,7 +26,8 @@ This document is a curated list of data science resources covering everything fr
 * [How to Lie with Statistics](https://amzn.to/3klmd8U) 
 
 ### Courses
-
+* [MITx's Statistics and Data Science MicroMasters® Program](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
+* 
 ### Tutorials
 
 ### Scholarly Articles
