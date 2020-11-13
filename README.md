@@ -6,7 +6,7 @@ This document is a curated list of data science resources covering everything fr
 
 ## Table of Contents
 ### [Statistics](#stats)
-### Git
+### [Git](#git)
 ### Python
 ### R
 ### SAS
@@ -27,9 +27,36 @@ This document is a curated list of data science resources covering everything fr
 
 ### Courses
 * [MITx's Statistics and Data Science MicroMasters® Program](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
-* 
+* [UCx's Statistical Analysis in R Professional Certificate](https://www.edx.org/professional-certificate/ucx-statistical-analysis-in-r)
+* [UMGC and USMx's Bioinformatics MicroMasters® Program](https://www.edx.org/micromasters/usmx-umgc-bioinformatics)
+* [Statistics for Business Analytics and Data Science A-Z™](https://www.udemy.com/course/data-statistics/)
+* [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/)
+* [Probability and Statistics for Business and Data Science](https://www.udemy.com/course/probability-and-statistics-for-business-and-data-science/)
+* [Statistics and Probability | Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+
 ### Tutorials
+* [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY)
+* [A Complete Tutorial On Statistics And Probability | Edureka](https://www.edureka.co/blog/statistics-and-probability/)
 
 ### Scholarly Articles
 
 ### Posts
+
+
+<a id="git"></a>
+## Git
+### Books
+* [Git Pocket Guide: A Working Introduction](https://amzn.to/2GWICM5)
+* [Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development](https://amzn.to/3pij0KW)
+* [Pro Git](https://github.com/progit/progit2/releases/download/2.1.270/progit.pdf)
+* [Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git](https://amzn.to/2H0v9mC)
+* [An introduction to Git and GitHub](http://www.bioinf.org.uk/teaching/splats/git.pdf)
+* [Git Cheat Sheet | GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
+
+### Courses
+* [Learn Git | Codecademy](https://www.codecademy.com/learn/learn-git)
+* [Version Control with Git | Coursera](https://www.coursera.org/learn/version-control-with-git)
+* [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/)
+
+### Tutorials
+* [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git/tutorials)
