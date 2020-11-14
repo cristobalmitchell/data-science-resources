@@ -7,12 +7,13 @@ This document is a curated list of data science resources covering everything fr
 ## Table of Contents
 ### [Statistics](#stats)
 ### [Git](#git)
-### Python
-### R
-### SAS
-### SQL
-### Data Visualization
-### Machine Learning
+### [Python](#python)
+### [R](#r)
+### [SAS](#sas)
+### [SQL](#sql)
+### [Data Visualization](#dataviz)
+### [Machine Learning](#ml)
+### [Time Series](#timeseries)
 
 ---
 
