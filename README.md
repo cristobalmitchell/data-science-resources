@@ -60,3 +60,37 @@ This document is a curated list of data science resources covering everything fr
 
 ### Tutorials
 * [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git/tutorials)
+
+<a id="python"></a>
+## Python
+### Books
+  * [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://amzn.to/3lv4X2z)
+  * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://amzn.to/3pqXGDd)
+  * [Python Cookbook](https://amzn.to/3pu24kI)
+  * [Think Python: How to Think Like a Computer Scientist](https://amzn.to/3nlB2u2)
+  * [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/2IyW9Kg)
+  
+<a id="r"></a>
+## R
+
+<a id="sas"></a>
+## SAS
+
+<a id="sql"></a>
+## SQL
+
+<a id="dataviz"></a>
+## Data Visualization
+
+<a id="ml"></a>
+## Machine Learning
+
+<a id="timeseries"></a>
+## Time Series
+### Books
+* [Introduction to Time Series and Forecasting](https://amzn.to/2Iqe5Ht)
+* [Time Series Analysis and Its Applications: With R Examples](https://amzn.to/32G3fnC)
+* [Practical Time Series Analysis: Prediction with Statistics and Machine Learning](https://amzn.to/3eVXUxn)
+* [The Analysis of Time Series: An Introduction with R](https://amzn.to/3lxjHxB)
+
+
