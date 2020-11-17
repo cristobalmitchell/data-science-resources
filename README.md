@@ -6,6 +6,7 @@ This document is a curated list of data science resources covering everything fr
 
 ## Table of Contents
 ### [Statistics](#stats)
+#### * [Books](#stats_books)
 ### [Git](#git)
 ### [Python](#python)
 ### [R](#r)
@@ -19,6 +20,7 @@ This document is a curated list of data science resources covering everything fr
 
 <a id="stats"></a>
 ## Statistics
+<a id="stats_books"></a>
 ### Books
 * [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
 * [The Elements of Statistical Learning Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) 
