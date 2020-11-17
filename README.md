@@ -73,6 +73,10 @@ This document is a curated list of data science resources covering everything fr
   
 <a id="r"></a>
 ## R
+### Books
+  * [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://amzn.to/3kz3Z41)
+  * [R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](https://amzn.to/2Uw1EMD)
+  * [The Book of R: A First Course in Programming and Statistics](https://amzn.to/3pIz49h)
 
 <a id="sas"></a>
 ## SAS
