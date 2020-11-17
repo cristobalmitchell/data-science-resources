@@ -6,7 +6,9 @@ This document is a curated list of data science resources covering everything fr
 
 ## Table of Contents
 ### [Statistics](#stats)
-#### * [Books](#stats_books)
+  * [Books](#stats_books)
+  * [Courses](#stats_courses)
+  * [Tutorials](#stats_tutorials)
 ### [Git](#git)
 ### [Python](#python)
 ### [R](#r)
@@ -28,6 +30,7 @@ This document is a curated list of data science resources covering everything fr
 * [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://amzn.to/3eTKFgw) 
 * [How to Lie with Statistics](https://amzn.to/3klmd8U) 
 
+<a id="stats_courses"></a>
 ### Courses
 * [MITx's Statistics and Data Science MicroMasters® Program](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 * [UCx's Statistical Analysis in R Professional Certificate](https://www.edx.org/professional-certificate/ucx-statistical-analysis-in-r)
@@ -37,6 +40,7 @@ This document is a curated list of data science resources covering everything fr
 * [Probability and Statistics for Business and Data Science](https://www.udemy.com/course/probability-and-statistics-for-business-and-data-science/)
 * [Statistics and Probability | Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
+<a id="stats_tutorials"></a>
 ### Tutorials
 * [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY)
 * [A Complete Tutorial On Statistics And Probability | Edureka](https://www.edureka.co/blog/statistics-and-probability/)
