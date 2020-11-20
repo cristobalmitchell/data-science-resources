@@ -10,7 +10,11 @@ This document is a curated list of data science resources covering everything fr
   * [Courses](#stats_courses)
   * [Tutorials](#stats_tutorials)
 ### [Git](#git)
+  * [Books](#git_books)
+  * [Courses](#git_courses)
+  * [Tutorials](#git_tutorials)
 ### [Python](#python)
+  * [Books](#python_books)
 ### [R](#r)
 ### [SAS](#sas)
 ### [SQL](#sql)
@@ -52,6 +56,7 @@ This document is a curated list of data science resources covering everything fr
 
 <a id="git"></a>
 ## Git
+<a id="git_books"></a>
 ### Books
 * [Git Pocket Guide: A Working Introduction](https://amzn.to/2GWICM5)
 * [Version Control with Git: Powerful Tools and Techniques for Collaborative Software Development](https://amzn.to/3pij0KW)
@@ -60,16 +65,19 @@ This document is a curated list of data science resources covering everything fr
 * [An introduction to Git and GitHub](http://www.bioinf.org.uk/teaching/splats/git.pdf)
 * [Git Cheat Sheet | GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 
+<a id="git_courses"></a>
 ### Courses
 * [Learn Git | Codecademy](https://www.codecademy.com/learn/learn-git)
 * [Version Control with Git | Coursera](https://www.coursera.org/learn/version-control-with-git)
 * [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/)
 
+<a id="git_tutorials"></a>
 ### Tutorials
 * [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git/tutorials)
 
 <a id="python"></a>
 ## Python
+<a id="python_books"></a>
 ### Books
   * [Learn Python 3 the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code](https://amzn.to/3lv4X2z)
   * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://amzn.to/3pqXGDd)
@@ -92,6 +100,16 @@ This document is a curated list of data science resources covering everything fr
 
 <a id="dataviz"></a>
 ## Data Visualization
+<a id="dataviz_books"></a>
+### Books
+  * [The Visual Display of Quantitative Information](https://amzn.to/36T3gph)
+  * [Now You See It: Simple Visualization Techniques for Quantitative Analysis](https://amzn.to/2KsImpB)
+  * [The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures](https://amzn.to/2IV6OiP)
+  * [Good Charts: The HBR Guide to Making Smarter, More Persuasive Data Visualizations](https://amzn.to/394i5bk)
+  * [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://amzn.to/36RmH1T)
+  * [Information Is Beautiful](https://amzn.to/390zJwx)
+  * [Knowledge Is Beautiful: Impossible Ideas, Invisible Patterns, Hidden Connections](https://amzn.to/2UIClqu)
+
 
 <a id="ml"></a>
 ## Machine Learning
