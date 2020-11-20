@@ -19,8 +19,10 @@ This document is a curated list of data science resources covering everything fr
 ### [SAS](#sas)
 ### [SQL](#sql)
 ### [Data Visualization](#dataviz)
+  * [Books](#dataviz_books)
 ### [Machine Learning](#ml)
 ### [Time Series](#timeseries)
+  * [Books](#timeseries_books)
 
 ---
 
@@ -116,6 +118,7 @@ This document is a curated list of data science resources covering everything fr
 
 <a id="timeseries"></a>
 ## Time Series
+<a id="timeseries_books"></a>
 ### Books
 * [Introduction to Time Series and Forecasting](https://amzn.to/2Iqe5Ht)
 * [Time Series Analysis and Its Applications: With R Examples](https://amzn.to/32G3fnC)
