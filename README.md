@@ -20,10 +20,10 @@ This document is a curated list of data science resources covering everything fr
 [SQL](#sql)
   * [Books](#sql_books)
   * [Posts](#sql_posts)
-#### [Data Visualization](#dataviz)
+[Data Visualization](#dataviz)
   * [Books](#dataviz_books)
-#### [Machine Learning](#ml)
-#### [Time Series](#timeseries)
+[Machine Learning](#ml)
+[Time Series](#timeseries)
   * [Books](#timeseries_books)
 
 ---
