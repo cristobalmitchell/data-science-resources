@@ -1,3 +1,4 @@
+
 # Data Science Resources
 
 This document is a curated list of data science resources covering everything from statistics, mathematical theory, and coding languages to real world applications of machine learning and artificial intelligence techniques. Resource types include books, courses, tutorials, scholarly articles, and blog posts.
@@ -5,25 +6,34 @@ This document is a curated list of data science resources covering everything fr
 --- 
 
 ## Table of Contents
-[Statistics](#stats)
+###[Statistics](#stats)
   * [Books](#stats_books)
   * [Courses](#stats_courses)
   * [Tutorials](#stats_tutorials)
-[Git](#git)
+
+###[Git](#git)
   * [Books](#git_books)
   * [Courses](#git_courses)
   * [Tutorials](#git_tutorials)
-[Python](#python)
+
+###[Python](#python)
   * [Books](#python_books)
-[R](#r)
-[SAS](#sas)
-[SQL](#sql)
+
+###[R](#r)
+  * [Books](#r_books)
+
+###[SAS](#sas)
+
+###[SQL](#sql)
   * [Books](#sql_books)
   * [Posts](#sql_posts)
-[Data Visualization](#dataviz)
+
+###[Data Visualization](#dataviz)
   * [Books](#dataviz_books)
-[Machine Learning](#ml)
-[Time Series](#timeseries)
+
+###[Machine Learning](#ml)
+
+###[Time Series](#timeseries)
   * [Books](#timeseries_books)
 
 ---
@@ -87,6 +97,7 @@ This document is a curated list of data science resources covering everything fr
   
 <a id="r"></a>
 ## R
+<a id="r_books"></a>
 ### Books
   * [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://amzn.to/3kz3Z41)
   * [R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](https://amzn.to/2Uw1EMD)
