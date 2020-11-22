@@ -18,6 +18,8 @@ This document is a curated list of data science resources covering everything fr
 #### [R](#r)
 #### [SAS](#sas)
 #### [SQL](#sql)
+  * [Books](#sql_books)
+  * [Posts](#sql_posts)
 #### [Data Visualization](#dataviz)
   * [Books](#dataviz_books)
 #### [Machine Learning](#ml)
@@ -45,16 +47,12 @@ This document is a curated list of data science resources covering everything fr
 * [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/)
 * [Probability and Statistics for Business and Data Science](https://www.udemy.com/course/probability-and-statistics-for-business-and-data-science/)
 * [Statistics and Probability | Khan Academy](https://www.khanacademy.org/math/statistics-probability)
+* [Introductory Statistics](https://saylordotorg.github.io/text_introductory-statistics/index.html)
 
 <a id="stats_tutorials"></a>
 ### Tutorials
 * [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY)
 * [A Complete Tutorial On Statistics And Probability | Edureka](https://www.edureka.co/blog/statistics-and-probability/)
-
-### Scholarly Articles
-
-### Posts
-
 
 <a id="git"></a>
 ## Git
@@ -99,6 +97,17 @@ This document is a curated list of data science resources covering everything fr
 
 <a id="sql"></a>
 ## SQL
+<a id="sql_books"></a>
+### Books
+  * [Learning SQL: Generate, Manipulate, and Retrieve Data](https://amzn.to/3fpbidj)
+  * [Practical SQL: A Beginner's Guide to Storytelling with Data](https://amzn.to/3pSXc8T)
+  * [SQL Cookbook: Query Solutions and Techniques for Database Developers](https://amzn.to/3frsUp1)
+  * [SQL for Data Analytics: Perform fast and efficient data analysis with the power of SQL](https://amzn.to/3fkuDfY)
+
+<a id="sql_posts"></a>
+### Posts
+* [SQL Joins Explained](http://www.sql-join.com)
+* [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 
 <a id="dataviz"></a>
 ## Data Visualization
