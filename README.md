@@ -115,6 +115,10 @@ This document is a curated list of data science resources covering everything fr
   * [SQL Cookbook: Query Solutions and Techniques for Database Developers](https://amzn.to/3frsUp1)
   * [SQL for Data Analytics: Perform fast and efficient data analysis with the power of SQL](https://amzn.to/3fkuDfY)
 
+<a id="sql_tutorials"></a>
+### Tutorials
+  * [The SQL Tutorial for Data Analysis](https://mode.com/sql-tutorial/introduction-to-sql/)
+
 <a id="sql_posts"></a>
 ### Posts
 * [SQL Joins Explained](http://www.sql-join.com)
