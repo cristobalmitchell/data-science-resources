@@ -5,7 +5,7 @@ This document is a curated list of data science resources covering everything fr
 --- 
 
 ## Table of Contents
-<b> [Statistics](#stats) </b>
+[Statistics](#stats)
   * [Books](#stats_books)
   * [Courses](#stats_courses)
   * [Tutorials](#stats_tutorials)
