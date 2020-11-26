@@ -23,6 +23,8 @@ This document is a curated list of data science resources covering everything fr
   * [Books](#r_books)
 
 ### [SAS](#sas)
+  * [Books](#sas_books)
+  * [Courses](#sas_courses)
 
 ### [SQL](#sql)
   * [Books](#sql_books)
@@ -32,6 +34,7 @@ This document is a curated list of data science resources covering everything fr
   * [Books](#dataviz_books)
 
 ### [Machine Learning](#ml)
+  * [Books](#ml_books)
 
 ### [Time Series](#timeseries)
   * [Books](#timeseries_books)
@@ -95,6 +98,13 @@ This document is a curated list of data science resources covering everything fr
   * [Think Python: How to Think Like a Computer Scientist](https://amzn.to/3nlB2u2)
   * [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/2IyW9Kg)
   
+<a id="python_courses"></a>
+### Courses
+  * [IBM's Python Data Science](https://www.edx.org/professional-certificate/python-data-science)
+  * [Using Python for Research](https://www.edx.org/course/using-python-for-research)
+  * [Python for Everybody](https://www.coursera.org/specializations/python)
+  * [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
+  
 <a id="r"></a>
 ## R
 <a id="r_books"></a>
@@ -105,6 +115,16 @@ This document is a curated list of data science resources covering everything fr
 
 <a id="sas"></a>
 ## SAS
+<a id="sas_books"></a>
+### Books
+  * [SAS Certified Specialist Prep Guide: Base Programming Using SAS 9.4](https://amzn.to/3m7Orpx)
+  * [SAS Certified Professional Prep Guide: Advanced Programming Using SAS 9.4](https://amzn.to/3qai3VJ)
+  
+<aa id="sas_courses"></a>
+### Courses
+  * [SAS Programmer Professional Certificate](https://www.coursera.org/professional-certificates/sas-programming)
+  * [SAS Advanced Programmer Professional Certificate](https://www.coursera.org/professional-certificates/sas-advanced-programmer)
+  
 
 <a id="sql"></a>
 ## SQL
@@ -139,6 +159,11 @@ This document is a curated list of data science resources covering everything fr
 
 <a id="ml"></a>
 ## Machine Learning
+<a id="ml_books"></a>
+### Books
+  * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/2KBMAuZ)
+  * [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://amzn.to/33i8bPO)
+
 
 <a id="timeseries"></a>
 ## Time Series
