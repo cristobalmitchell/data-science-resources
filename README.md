@@ -163,7 +163,7 @@ This document is a curated list of data science resources covering everything fr
 ### Books
   * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/2KBMAuZ)
   * [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://amzn.to/33i8bPO)
-
+  * [Mastering Machine Learning Algorithms](https://amzn.to/2Kz48YH)
 
 <a id="timeseries"></a>
 ## Time Series
