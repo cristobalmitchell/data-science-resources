@@ -38,6 +38,10 @@ This document is a curated list of data science resources covering everything fr
 
 ### [Time Series](#timeseries)
   * [Books](#timeseries_books)
+  
+### [Experimentation](#experiment)
+  * [Books](#experiment_books)
+  
 
 ---
 
@@ -173,6 +177,13 @@ This document is a curated list of data science resources covering everything fr
 * [Time Series Analysis and Its Applications: With R Examples](https://amzn.to/32G3fnC)
 * [Practical Time Series Analysis: Prediction with Statistics and Machine Learning](https://amzn.to/3eVXUxn)
 * [The Analysis of Time Series: An Introduction with R](https://amzn.to/3lxjHxB)
+
+<a id="experiment"></a>
+## Experimentation
+<a id="experiment_books"></a>
+### Books
+* [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://amzn.to/2VknwL6)
+* [Designing with Data: Improving the User Experience with A/B Testing](https://amzn.to/36jukz8)
 
 <a id="ds"></a>
 ## Data Science
