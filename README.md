@@ -7,14 +7,10 @@ This document is a curated list of data science resources covering everything fr
 
 ## Table of Contents
 ### [Statistics](#stats)
-  * [Books](#stats_books)
-  * [Courses](#stats_courses)
-  * [Tutorials](#stats_tutorials)
+  [Books](#stats_books) | [Courses](#stats_courses) | [Tutorials](#stats_tutorials)
 
 ### [Git](#git)
-  * [Books](#git_books)
-  * [Courses](#git_courses)
-  * [Tutorials](#git_tutorials)
+  [Books](#git_books) | [Courses](#git_courses) | [Tutorials](#git_tutorials)
 
 ### [Python](#python)
   * [Books](#python_books)
