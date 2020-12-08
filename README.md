@@ -13,32 +13,28 @@ This document is a curated list of data science resources covering everything fr
   [Books](#git_books) | [Courses](#git_courses) | [Tutorials](#git_tutorials)
 
 ### [Python](#python)
-  * [Books](#python_books)
-  * [Courses](#python_courses)
+  [Books](#python_books) | [Courses](#python_courses)
 
 ### [R](#r)
-  * [Books](#r_books)
-  * [Courses](#r_courses)
+  [Books](#r_books) | [Courses](#r_courses)
 
 ### [SAS](#sas)
-  * [Books](#sas_books)
-  * [Courses](#sas_courses)
+  [Books](#sas_books) | [Courses](#sas_courses)
 
 ### [SQL](#sql)
-  * [Books](#sql_books)
-  * [Posts](#sql_posts)
+  [Books](#sql_books) | [Posts](#sql_posts)
 
 ### [Data Visualization](#dataviz)
-  * [Books](#dataviz_books)
+  [Books](#dataviz_books)
 
 ### [Machine Learning](#ml)
-  * [Books](#ml_books)
+  [Books](#ml_books)
 
 ### [Time Series](#timeseries)
-  * [Books](#timeseries_books)
+  [Books](#timeseries_books)
   
 ### [Experimentation](#experiment)
-  * [Books](#experiment_books)
+  [Books](#experiment_books)
   
 
 ---
