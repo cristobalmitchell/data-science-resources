@@ -56,6 +56,7 @@ This document is a curated list of data science resources covering everything fr
 * [Naked Statistics: Stripping the Dread from the Data](https://amzn.to/3kp7bz6) 
 * [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://amzn.to/3eTKFgw) 
 * [How to Lie with Statistics](https://amzn.to/3klmd8U) 
+* [Principles of Statistics](https://amzn.to/3goXgJn)
 
 <a id="stats_courses"></a>
 ### Courses
