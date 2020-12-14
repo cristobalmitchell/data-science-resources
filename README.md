@@ -49,6 +49,8 @@ This document is a curated list of data science resources covering everything fr
 * [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://amzn.to/3eTKFgw) 
 * [How to Lie with Statistics](https://amzn.to/3klmd8U) 
 * [Principles of Statistics](https://amzn.to/3goXgJn)
+* [Statistics in Plain English](https://amzn.to/3abkKAL)
+* [Statistics in a Nutshell: A Desktop Quick Reference](https://amzn.to/38805L2)
 
 <a id="stats_courses"></a>
 ### Courses
