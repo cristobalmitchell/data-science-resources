@@ -187,6 +187,8 @@ This document is a curated list of data science resources covering everything fr
 ### Books
 * [Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing](https://amzn.to/2VknwL6)
 * [Designing with Data: Improving the User Experience with A/B Testing](https://amzn.to/36jukz8)
+* [Optimal Design of Experiments: A Case Study Approach](https://amzn.to/2IVnBCt)
+* [Design and Analysis of Experiments](https://amzn.to/2Wpc5SQ)
 
 <a id="ds"></a>
 ## Data Science
