@@ -171,6 +171,7 @@ This document is a curated list of data science resources covering everything fr
   * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://amzn.to/2KBMAuZ)
   * [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://amzn.to/33i8bPO)
   * [Mastering Machine Learning Algorithms](https://amzn.to/2Kz48YH)
+  * [AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence](https://amzn.to/3mwJXIo)
 
 <a id="timeseries"></a>
 ## Time Series
@@ -180,6 +181,7 @@ This document is a curated list of data science resources covering everything fr
 * [Time Series Analysis and Its Applications: With R Examples](https://amzn.to/32G3fnC)
 * [Practical Time Series Analysis: Prediction with Statistics and Machine Learning](https://amzn.to/3eVXUxn)
 * [The Analysis of Time Series: An Introduction with R](https://amzn.to/3lxjHxB)
+* [Time-Series Prediction and Applications: A Machine Intelligence Approach](https://amzn.to/3aqQ9yZ)
 
 <a id="experiment"></a>
 ## Experimentation
