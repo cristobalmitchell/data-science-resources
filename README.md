@@ -13,7 +13,7 @@ This document is a curated list of data science resources covering everything fr
   [Books](#git_books) | [Courses](#git_courses) | [Tutorials](#git_tutorials)
 
 ### [Python](#python)
-  [Books](#python_books) | [Courses](#python_courses)
+  [Books](#python_books) | [Courses](#python_courses) | [Libraries](#python_libraries)
 
 ### [R](#r)
   [Books](#r_books) | [Courses](#r_courses)
@@ -106,6 +106,16 @@ This document is a curated list of data science resources covering everything fr
   * [Python for Everybody](https://www.coursera.org/specializations/python)
   * [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
   
+<a id="python_libraries"></a>
+### Libraries
+  * [Pandas](https://pandas.pydata.org)
+  * [SciPy](https://www.scipy.org)
+  * [NumPy](https://numpy.org)
+  * [StatsModels](https://www.statsmodels.org/stable/index.html)
+  * [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+  * [TensorFlow](https://www.tensorflow.org)
+  * [PyTorch](https://pytorch.org)
+
 <a id="r"></a>
 ## R
 <a id="r_books"></a>
