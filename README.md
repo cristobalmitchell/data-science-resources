@@ -35,7 +35,9 @@ This document is a curated list of data science resources covering everything fr
   
 ### [Experimentation](#experiment)
   [Books](#experiment_books)
-  
+
+### [Data Sources](#data_source)
+  [Sites](#data_source_sites)
 
 ---
 
@@ -201,6 +203,19 @@ This document is a curated list of data science resources covering everything fr
 * [Designing with Data: Improving the User Experience with A/B Testing](https://amzn.to/36jukz8)
 * [Optimal Design of Experiments: A Case Study Approach](https://amzn.to/2IVnBCt)
 * [Design and Analysis of Experiments](https://amzn.to/2Wpc5SQ)
+
+<a id=data_sources"></a>
+## Data Sources
+<a id="data_sources_sites"></a>
+### Sites
+* [Data.gov](https://catalog.data.gov/dataset)
+* [Kaggle](https://www.kaggle.com/datasets)
+* [Datahub.io](https://datahub.io/collections)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+* [Earth Data](https://earthdata.nasa.gov)
+* [CERN Open Data](http://opendata.cern.ch)
+* [Global Health Observatory](https://apps.who.int/gho/data/node.home)
+* [FBI Crime Data Explorer](https://crime-data-explorer.fr.cloud.gov)
 
 <a id="ds"></a>
 ## Data Science
