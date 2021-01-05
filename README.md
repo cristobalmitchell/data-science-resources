@@ -162,6 +162,7 @@ This document is a curated list of data science resources covering everything fr
 ### Posts
 * [SQL Joins Explained](http://www.sql-join.com)
 * [A Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+* [SQL Window Functions](https://mode.com/sql-tutorial/sql-window-functions/)
 
 <a id="dataviz"></a>
 ## Data Visualization
