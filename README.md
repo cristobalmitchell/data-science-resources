@@ -7,7 +7,7 @@ This document is a curated list of data science resources covering everything fr
 
 ## Table of Contents
 ### [Statistics](#stats)
-  [Books](#stats_books) | [Courses](#stats_courses) | [Tutorials](#stats_tutorials)
+  [Books](#stats_books) | [Courses](#stats_courses) | [Tutorials](#stats_tutorials) | [Posts](#stats_posts)
 
 ### [Git](#git)
   [Books](#git_books) | [Courses](#git_courses) | [Tutorials](#git_tutorials)
@@ -69,6 +69,11 @@ This document is a curated list of data science resources covering everything fr
 ### Tutorials
 * [Statistics for Data Science | Probability and Statistics | Statistics Tutorial | Ph.D. (Stanford)](https://www.youtube.com/watch?v=Vfo5le26IhY)
 * [A Complete Tutorial On Statistics And Probability | Edureka](https://www.edureka.co/blog/statistics-and-probability/)
+
+<a id="stats_posts"></a>
+### Posts
+* [Conditional Probability with Bayes' Theorem](https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/bayes-theorem-visualized)
+* [Bayes' Theorem](https://www.mathsisfun.com/data/bayes-theorem.html)
 
 <a id="git"></a>
 ## Git
