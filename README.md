@@ -105,6 +105,8 @@ This document is a curated list of data science resources covering everything fr
   * [Python Cookbook](https://amzn.to/3pu24kI)
   * [Think Python: How to Think Like a Computer Scientist](https://amzn.to/3nlB2u2)
   * [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/2IyW9Kg)
+  * [Python Feature Engineering Cookbook](https://amzn.to/3hRtCgr)
+  * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://amzn.to/2Xj7e6j)
   
 <a id="python_courses"></a>
 ### Courses
