@@ -39,6 +39,9 @@ This document is a curated list of data science resources covering everything fr
 ### [Data Sources](#data_source)
   [Sites](#data_source_sites)
 
+### [Interviewing](#interview)
+  [Sites](#interview_sites) | [Posts](#interview_posts)
+  
 ---
 
 <a id="stats"></a>
@@ -225,6 +228,20 @@ This document is a curated list of data science resources covering everything fr
 * [Global Health Observatory](https://apps.who.int/gho/data/node.home)
 * [FBI Crime Data Explorer](https://crime-data-explorer.fr.cloud.gov)
 
+<a id="interview"></a>
+## Interview
+<a id="interview_sites"></a>
+### Sites
+  * [Candor: Data Scientist Interview Questions](https://candor.co/interviews/data-scientist)
+
+<a id="interview_posts"></a>
+### Posts
+  * [How to pass the Facebook Data Science Interview](https://towardsdatascience.com/how-to-pass-the-facebook-data-science-interview-3f2615c17012) 
+  * [The Facebook Data Scientist Interview](https://towardsdatascience.com/the-facebook-data-scientist-interview-38556739e872)
+  * [Facebook Data Science Interview Questions and Solutions](https://www.interviewquery.com/blog-facebook-data-science-interview-questions-and-solutions/)
+  * [109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science-interview-questions/)
+  * [Top 30 Data Science Interview Questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
+  
 <a id="ds"></a>
 ## Data Science
 <a id="ds_cheats"></a>
