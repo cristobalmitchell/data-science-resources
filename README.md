@@ -39,7 +39,7 @@ This document is a curated list of data science resources covering everything fr
 ### [Data Sources](#data_source)
   [Sites](#data_source_sites)
 
-### [Interview](#interview)
+### [Interview Preparation](#interview)
   [Sites](#interview_sites) | [Posts](#interview_posts)
   
 ---
@@ -215,9 +215,9 @@ This document is a curated list of data science resources covering everything fr
 * [Optimal Design of Experiments: A Case Study Approach](https://amzn.to/2IVnBCt)
 * [Design and Analysis of Experiments](https://amzn.to/2Wpc5SQ)
 
-<a id="data_sources"></a>
+<a id="data_source"></a>
 ## Data Sources
-<a id="data_sources_sites"></a>
+<a id="data_source_sites"></a>
 ### Sites
 * [Data.gov](https://catalog.data.gov/dataset)
 * [Kaggle](https://www.kaggle.com/datasets)
