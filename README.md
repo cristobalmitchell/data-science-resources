@@ -39,7 +39,7 @@ This document is a curated list of data science resources covering everything fr
 ### [Data Sources](#data_source)
   [Sites](#data_source_sites)
 
-### [Interviewing](#interview)
+### [Interview](#interview)
   [Sites](#interview_sites) | [Posts](#interview_posts)
   
 ---
