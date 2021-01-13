@@ -110,6 +110,7 @@ This document is a curated list of data science resources covering everything fr
   * [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/2IyW9Kg)
   * [Python Feature Engineering Cookbook](https://amzn.to/3hRtCgr)
   * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython](https://amzn.to/2Xj7e6j)
+  * [Python Data Cleaning Cookbook: Modern techniques and Python tools to detect and remove dirty data and extract key insights](https://amzn.to/2XyEuGZ)
   
 <a id="python_courses"></a>
 ### Courses
@@ -163,6 +164,7 @@ This document is a curated list of data science resources covering everything fr
   * [Practical SQL: A Beginner's Guide to Storytelling with Data](https://amzn.to/3pSXc8T)
   * [SQL Cookbook: Query Solutions and Techniques for Database Developers](https://amzn.to/3frsUp1)
   * [SQL for Data Analytics: Perform fast and efficient data analysis with the power of SQL](https://amzn.to/3fkuDfY)
+  * [SQL for Data Science: Data Cleaning, Wrangling and Analytics with Relational Databases](https://amzn.to/3ibf2AL)
 
 <a id="sql_tutorials"></a>
 ### Tutorials
