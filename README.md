@@ -13,13 +13,13 @@ This document is a curated list of data science resources covering everything fr
   [Books](#git_books) | [Courses](#git_courses) | [Tutorials](#git_tutorials)
 
 ### [Python](#python)
-  [Books](#python_books) | [Courses](#python_courses) | [Libraries](#python_libraries)
+  [Books](#python_books) | [Courses](#python_courses) | [Libraries](#python_libraries) | [Cheat Sheets](#python_cheatsheets)
 
 ### [R](#r)
-  [Books](#r_books) | [Courses](#r_courses)
+  [Books](#r_books) | [Courses](#r_courses) | [Cheat Sheets](#r_cheatsheets)
 
 ### [SAS](#sas)
-  [Books](#sas_books) | [Courses](#sas_courses)
+  [Books](#sas_books) | [Courses](#sas_courses) | [Cheat Sheets](#sas_cheatsheets)
 
 ### [SQL](#sql)
   [Books](#sql_books) | [Posts](#sql_posts)
@@ -128,6 +128,11 @@ This document is a curated list of data science resources covering everything fr
   * [Scikit-Learn](https://scikit-learn.org/stable/index.html)
   * [TensorFlow](https://www.tensorflow.org)
   * [PyTorch](https://pytorch.org)
+  
+<a id="python_cheatsheets"></a>
+### Cheat Sheets
+  * [Python Cheatsheet](https://www.pythoncheatsheet.org)
+  * [Python Crash Course Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 
 <a id="r"></a>
 ## R
@@ -143,6 +148,10 @@ This document is a curated list of data science resources covering everything fr
   * [R Programming](https://www.coursera.org/learn/r-programming)
   * [Getting Started with R](https://www.coursera.org/projects/getting-started-with-r)
 
+<a id="r_cheatsheets"></a>
+### Cheat Sheets
+  * [RStudio Cheatsheets](https://rstudio.com/resources/cheatsheets/)
+
 <a id="sas"></a>
 ## SAS
 <a id="sas_books"></a>
@@ -154,7 +163,11 @@ This document is a curated list of data science resources covering everything fr
 ### Courses
   * [SAS Programmer Professional Certificate](https://www.coursera.org/professional-certificates/sas-programming)
   * [SAS Advanced Programmer Professional Certificate](https://www.coursera.org/professional-certificates/sas-advanced-programmer)
-  
+
+<a id="sas_cheatsheets"></a>
+### Cheat Sheets
+  * [SAS Base Programming for SAS 9 Reference Guide](https://support.sas.com/content/dam/SAS/support/en/books/data/base-syntax-ref.pdf)
+  * [SAS For Dummies Cheat Sheet](https://www.dummies.com/software/other-software/sas-for-dummies-cheat-sheet/)
 
 <a id="sql"></a>
 ## SQL
