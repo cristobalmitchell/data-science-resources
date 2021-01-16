@@ -13,7 +13,7 @@ This document is a curated list of data science resources covering everything fr
   [Books](#git_books) | [Courses](#git_courses) | [Tutorials](#git_tutorials) | [Cheat Sheets](#git_cheatsheets)
 
 ### [Python](#python)
-  [Books](#python_books) | [Courses](#python_courses) | [Libraries](#python_libraries) | [Cheat Sheets](#python_cheatsheets)
+  [Books](#python_books) | [Courses](#python_courses) | [Libraries](#python_libraries) | [Tutorials](#python_tutorials) | [Cheat Sheets](#python_cheatsheets)
 
 ### [R](#r)
   [Books](#r_books) | [Courses](#r_courses) | [Cheat Sheets](#r_cheatsheets)
@@ -135,6 +135,13 @@ This document is a curated list of data science resources covering everything fr
   * [TensorFlow](https://www.tensorflow.org)
   * [PyTorch](https://pytorch.org)
   
+<a id="python_tutorials"></a>
+### Tutorials
+  * [The Python Tutorial](https://docs.python.org/3/tutorial/)
+  * [W3School Python Tutorial](https://www.w3schools.com/python/)
+  * [LearnPython Python Tutorial](https://www.learnpython.org)
+  * [Real Python Tutorials](https://realpython.com)
+
 <a id="python_cheatsheets"></a>
 ### Cheat Sheets
   * [Python Cheatsheet](https://www.pythoncheatsheet.org)
