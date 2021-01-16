@@ -10,7 +10,7 @@ This document is a curated list of data science resources covering everything fr
   [Books](#stats_books) | [Courses](#stats_courses) | [Tutorials](#stats_tutorials) | [Posts](#stats_posts)
 
 ### [Git](#git)
-  [Books](#git_books) | [Courses](#git_courses) | [Tutorials](#git_tutorials)
+  [Books](#git_books) | [Courses](#git_courses) | [Tutorials](#git_tutorials) | [Cheat Sheets](#git_cheatsheets)
 
 ### [Python](#python)
   [Books](#python_books) | [Courses](#python_courses) | [Libraries](#python_libraries) | [Cheat Sheets](#python_cheatsheets)
@@ -98,6 +98,12 @@ This document is a curated list of data science resources covering everything fr
 <a id="git_tutorials"></a>
 ### Tutorials
 * [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git/tutorials)
+
+<a id="git_cheatsheets"></a>
+### Cheat Sheets
+* [Atlassian Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+* [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 
 <a id="python"></a>
 ## Python
