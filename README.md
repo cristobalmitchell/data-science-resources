@@ -34,7 +34,7 @@ This document is a curated list of data science resources covering everything fr
   [Books](#timeseries_books)
   
 ### [Experimentation](#experiment)
-  [Books](#experiment_books)
+  [Books](#experiment_books) | [Courses](#experiment_courses)
 
 ### [Data Sources](#data_source)
   [Sites](#data_source_sites)
@@ -242,6 +242,11 @@ This document is a curated list of data science resources covering everything fr
 * [Designing with Data: Improving the User Experience with A/B Testing](https://amzn.to/36jukz8)
 * [Optimal Design of Experiments: A Case Study Approach](https://amzn.to/2IVnBCt)
 * [Design and Analysis of Experiments](https://amzn.to/2Wpc5SQ)
+
+<a id="experiment_courses"></a>
+### Courses
+* [A/B Testing by Google](https://www.udacity.com/course/ab-testing--ud257)
+* [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 
 <a id="data_source"></a>
 ## Data Sources
