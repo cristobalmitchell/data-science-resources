@@ -247,6 +247,9 @@ This document is a curated list of data science resources covering everything fr
 ### Courses
 * [A/B Testing by Google](https://www.udacity.com/course/ab-testing--ud257)
 * [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
+* [Statistical Inference and Modeling for High-throughput Experiments](https://www.edx.org/course/statistical-inference-and-modeling-for-high-throug)
+* [Data Science: Inferential Thinking through Simulations](https://www.edx.org/course/foundations-of-data-science-inferential-thinking-b)
+* [UX Evaluation](https://www.edx.org/course/ux-evaluation)
 
 <a id="data_source"></a>
 ## Data Sources
