@@ -234,6 +234,12 @@ This document is a curated list of data science resources covering everything fr
 * [The Analysis of Time Series: An Introduction with R](https://amzn.to/3lxjHxB)
 * [Time-Series Prediction and Applications: A Machine Intelligence Approach](https://amzn.to/3aqQ9yZ)
 
+<a id="timeseries_tutorials"></a>
+### Tutorials
+* [A Comprehensive Beginner's Guide to Time Series Forecast](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+* [Time Series Forecasting With Prophet in Python](https://machinelearningmastery.com/time-series-forecasting-with-prophet-in-python/)
+* [Time Series Analysis in Python - A Comprehensive Guide with Examples](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
+
 <a id="experiment"></a>
 ## Experimentation
 <a id="experiment_books"></a>
