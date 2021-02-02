@@ -77,6 +77,7 @@ This document is a curated list of data science resources covering everything fr
 ### Posts
 * [Conditional Probability with Bayes' Theorem](https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/bayes-theorem-visualized)
 * [Bayes' Theorem](https://www.mathsisfun.com/data/bayes-theorem.html)
+* [Conditional Probability](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/conditional-probability-definition-examples/)
 
 <a id="git"></a>
 ## Git
