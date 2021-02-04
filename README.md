@@ -270,6 +270,7 @@ This document is a curated list of data science resources covering everything fr
 * [CERN Open Data](http://opendata.cern.ch)
 * [Global Health Observatory](https://apps.who.int/gho/data/node.home)
 * [FBI Crime Data Explorer](https://crime-data-explorer.fr.cloud.gov)
+* [The Cancer Genomic Atlas](https://portal.gdc.cancer.gov)
 
 <a id="interview"></a>
 ## Interview
