@@ -42,6 +42,9 @@ This document is a curated list of data science resources covering everything fr
 ### [Interview Preparation](#interview)
   [Sites](#interview_sites) | [Posts](#interview_posts)
   
+### [Big Data](#big_data)
+  [Books](#big_data_books)
+  
 ---
 
 <a id="stats"></a>
@@ -286,6 +289,11 @@ This document is a curated list of data science resources covering everything fr
   * [109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science-interview-questions/)
   * [Top 30 Data Science Interview Questions](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
   
+<a id="big_data"></a>
+## Big Data
+<a id="big_data_books"></a>
+  * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://amzn.to/36SE2Io)
+
 <a id="ds"></a>
 ## Data Science
 <a id="ds_cheats"></a>
