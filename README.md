@@ -293,6 +293,7 @@ This document is a curated list of data science resources covering everything fr
 ## Big Data
 <a id="big_data_books"></a>
   * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://amzn.to/36SE2Io)
+  * [Big Data in Practice: How 45 Successful Companies Used Big Data Analytics to Deliver Extraordinary Results](https://amzn.to/3aPzGmN)
 
 <a id="ds"></a>
 ## Data Science
