@@ -295,6 +295,7 @@ This document is a curated list of data science resources covering everything fr
   * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://amzn.to/36SE2Io)
   * [Big Data in Practice: How 45 Successful Companies Used Big Data Analytics to Deliver Extraordinary Results](https://amzn.to/3aPzGmN)
   * [Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://amzn.to/3tMW8W8)
+  * [The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science](https://amzn.to/3s9Wvsa)
 
 <a id="ds"></a>
 ## Data Science
